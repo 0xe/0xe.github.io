@@ -2,11 +2,11 @@
 
 I'm a software developer with about fifteen years of experience designing and building software systems.
 
-Currently, I'm working on implementing the JavaScript programming language to run on the JVM at [ServiceNow](https://www.servicenow.com).
+Currently, I'm working on implementing JavaScript on the JVM at [ServiceNow](https://www.servicenow.com).
 
 Previously, I've worked on implementing Oauth2 and SAML authorization protocols and API Gateways at [Concur](https://www.concur.com) (acquired by SAP) and [MoEngage](https://www.moengage.com). 
 
-Even earlier, I've worked on building automation systems and schedulers at [Calm.io](https://www.nutanix.com/products/cloud-manager/self-service) (acquired by Nutanix).
+Even earlier, I've worked on building workflow engines, macro systems and schedulers at [Calm.io](https://www.nutanix.com/products/cloud-manager/self-service) (acquired by Nutanix).
 
 This page is mostly about my projects.
 
@@ -14,7 +14,7 @@ This page is mostly about my projects.
 
 I occasionally write something here.
 
-- My motorcycle trip to [Ladakh](ladakh/).
+- My motorcycle trip to [Ladakh](ladakh.pdf).
 
 ## Open Source:
 
