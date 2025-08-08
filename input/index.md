@@ -35,7 +35,7 @@ I contribute to the [Rhino project](https://github.com/mozilla/rhino/commits/mas
 
 - Retrogames: Clones of [classic games](https://github.com/0xe/retrogames) we've spent years playing as children. Mostly as an excuse to learn programming languages
   * Arkanoid: OutBreak (in C++)
-  * Tetris: BrickLock (in Rust)
+  * Tetris (in Rust)
   
 - SCAM: A [lisp interpreter](https://github.com/0xe/scam) written in Clojure quite similar to how SICP implements it and also the base for the AST-walking interpreter for simple. I implemented it for a talk I gave about it.
 
