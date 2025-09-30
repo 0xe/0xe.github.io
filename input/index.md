@@ -20,6 +20,8 @@ I occasionally write something here.
 
 I contribute to the [Rhino project](https://github.com/mozilla/rhino/commits/master/?author=0xe) which is a JavaScript runtime written on the JVM.
 
+Previously, I've also made minor contributions to the [swc project](https://github.com/swc-project/swc/commits/main/?author=0xe).
+
 ## Projects:
 
 - Nadaswara: A simple app to help practise singing _Swaras_ of _Ragas_ in Carnatic music. Allows you to define the base *sa* note so you can follow along with exercises at your own pitch. Available on the [iOS app store](https://appstoreconnect.apple.com/apps/6749471155/distribution/info).
