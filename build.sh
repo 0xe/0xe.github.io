@@ -1,1 +1,1 @@
-generate-md --layout github --input ./input --output .
+generate-md --layout ./layout --input ./input --output .
