@@ -1,5 +1,7 @@
 # Hi!
 
+<img src="/assets/images/photo.jpg" class="avatar" alt="Satish">
+
 I'm a Principal Software Engineer on the Bedrock team at [ServiceNow](https://www.servicenow.com), where we work on ServiceNow's JavaScript runtime and implementation. It's low-level, deeply technical work that sits at the intersection of language design, runtime performance, and the constraints of a large production platform.
 
 Previously, I've worked on implementing Oauth2 and SAML authorization protocols and API Gateways at [Concur](https://www.concur.com) (acquired by SAP) and [MoEngage](https://www.moengage.com).
